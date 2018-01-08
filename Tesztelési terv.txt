@@ -24,6 +24,7 @@ Elvárt működés:
 Az ellenőrzés lebonyolítása után:
 	– az adathordozó behelyezéséhez hasonlóan szintén el kell indulnia egy batch fájlnak 
 	– meg kell jelennie a képernyő alján, hogy az adathordozót eltávolítottuk
+        - Log fájl másolása egy központi helyre
 
 Rendszerteszteléshez kapcsolódó határidők:
 	– A kifejlesztett funkcionalitás szállító oldali tesztelésének lezárása, az
