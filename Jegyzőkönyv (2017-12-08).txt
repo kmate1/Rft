@@ -1,0 +1,26 @@
+Jegyzőkönyv megbeszélésről
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Megbeszélés ideje:
+	2017. december 8.	
+		
+Megbeszélés helye: 
+	Eszterházy Károly Egyetem, C épület, 3300 Eger, Leányka u. 4.
+
+A megbeszélésen jelen voltak: 
+	– BSH Háztartási Készülék Kereskedelmi Kft. részéről: 
+		– Kóti Ádám 	program használatáért felelős
+		– Kovács Máté	program használatáért felelős
+	– SWGroup Kft. részéről: 
+		– Simon Adrián 	projektvezető, vezető fejlesztő
+
+A megbeszélésen meghozott döntések:
+	– E-mail értesítést az IT osztálynak küldeni: <adrian.simon2@bosch.com>
+
+
+Eger, 2017. december 8.
+
+
+	BSH Háztartási Készülék Kereskedelmi Kft. 				SWGroup Kft.
+	Megrendelő aláírása						Fejlesztő cég aláírása

@@ -1,0 +1,46 @@
+Tesztelési terv
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Tesztelendő funkciók: 
+	– 1. Adathordozó behelyezése 
+	– 2. Adathordozó kivétele
+
+1. Adathordozó behelyezése
+Elvárt működés:
+A program az indításkor a képernyő alján nem jelenít meg semmilyen szöveges információt 
+sem.
+Azonban, ha behelyezünk egy adathordozót, abban a pillanatban tudnia kell a programnak, 
+hogy megadtunk-e a vírusellenőrzéshez minden adatot, mert ha nem, akkor a program értesíti 
+annak kezelőjét, hogy csak minden szükséges adat megadása után kezdhető el az ellenőrzés.
+Ha minden szükséges adatot megadtunk, akkor:
+	– azonnal el kell indulnia egy batch file-nak
+	– meg kell jelennie a képernyő alján, hogy behelyeztünk egy adathordozót 
+	– a sikertelen ellenőrzés tényéről a program kezelője kapjon értesítést
+	– a rendszergazda az ellenőrzés tényéről kapjon elektronikus üzenetet
+
+2. Adathordozó kivétele
+Elvárt működés:
+Az ellenőrzés lebonyolítása után:
+	– az adathordozó behelyezéséhez hasonlóan szintén el kell indulnia egy batch fájlnak 
+	– meg kell jelennie a képernyő alján, hogy az adathordozót eltávolítottuk
+
+Rendszerteszteléshez kapcsolódó határidők:
+	– A kifejlesztett funkcionalitás szállító oldali tesztelésének lezárása, az
+	átadás-átvételi folyamat megkezdése: 2018. január 10.
+	– A rendszerek átadás-átvételi folyamatának lezárása: 2018. január 10.
+	– A felhasználói leírás ajánlatkérőnek történő átírása: 2018. január 10.
+	– A kifejlesztett funkcionalitás éles üzembe állítása: 2018. január 10.
+
+A kialakított rendszerek tesztelése a tesztelési tervek alapján zajlik. A tesztek fő szempontja 
+funkcionális és technikai ellenőrzés, melyeket követően a szükséges javítások elvégzésére 
+kerül sor. A tesztről tesztelési jegyzőkönyv készül.
+Az átadás-átvételi tesztek megkezdését kezdeményezni a sikeres, és előzetesen az 
+ajánlatkérőnek átadott ajánlattevői tesztelési jegyzőkönyvek birtokában lehetséges. 
+Az átadás-átvételi tesztek lebonyolítása az ajánlatkérő minőségbiztosítójának a feladata, itt az 
+ajánlattevő részéről csak a tesztekben való közreműködés az elvárás. 
+Az átadás-átvétel akkor tekinthető sikeresnek, ha az átadás-átvételre felajánlott rendszerek a 
+rendszertervben foglalt feltételeknek megfelelnek.
+
+A tesztelés célja: a funkciók megfelelő működésének ellenőrzése.
+A tesztelés sikeres, ha minden funkció megfelelően működik.

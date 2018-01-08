@@ -1,0 +1,60 @@
+Jegyzőkönyv megbeszélésről
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Megbeszélés ideje:
+	2017. november 13.	
+		
+Megbeszélés helye: 
+	Eszterházy Károly Egyetem, C épület, 3300 Eger, Leányka u. 4.
+
+A megbeszélésen jelen voltak: 
+	– BSH Háztartási Készülék Kereskedelmi Kft. részéről: 
+		– Simon Adrián 	ügyvezető igazgató
+		– Kóti Ádám 	program használatáért felelős
+		– Kovács Máté	program használatáért felelős
+	– SWGroup Kft. részéről: 
+		– Simon Adrián 	projektvezető, vezető fejlesztő
+		– Kóti Ádám 	fejlesztő, tesztelő
+		– Kovács Máté	fejlesztő, tesztelő
+
+Információk:
+	A Bosch részéről megtörtént a munkafolyamatok bemutatása és szemléltetésre került
+	jelenleg miként történik a külső forrásból érkező adathordozók ellenőrzése és
+	csatlakoztatása.
+		
+A megbeszélésen meghozott döntések:
+	– A fejlesztés során felmerülő kérdésekben közvetlenül lehet keresni a program
+	használatáért felelős személyeket (tel 1.: 06-30-123-1234, tel 2.: 06-30-432-4321)
+	– Időpontok:
+		– Tervezés: 2017. november 14. - 2017. december 1.
+		– Fejlesztés: 2017. december 2. - 2017. december 31.
+		– Tesztelés: 2018. január 1. - 2018. január 7.
+		– Tervezett átadás, oktatás: 2018. január 10.
+	– Üzenetküldéshez használandó e-mail-cím:
+		– Feladó: <noreplyVPREger@bosch.com>
+		– Címzett: később pontosítandó
+	– Kiküldendő üzenet tartalma:
+		– Tárgy: RBASHU: Vírus Ellenőrzés Történt Egerben
+		– Tartalma: A J Csarnokban Pendrive ellenőrzés történt ,,ÉÉÉÉ.HH.NN
+		ÓÓ:PP:MM'' időpontban. Az ellenőrzést végezte: ,,Név''. A Vendég neve:
+		,,Vendég Név''. A Vendég Cég Neve: ,,Cég neve''. Látogatás célja:
+		,,Ellenőrzés oka''.
+	– Szükséges információk:
+		– Időpont
+		– Ellenőrzést végző neve
+		– Vendég neve
+		– Vendég cég neve
+		– látogatás célja
+	– Alkalmazottak névsora:
+		– A felelős személyek továbbítják a projektvezető felé.
+	– Következő megbeszélés időpontja és helye:
+		– Eszterházy Károly Egyetem, C épület, 3300 Eger, Leányka u. 4.
+		– 2017. december 8. 09:00
+
+
+Eger, 2017. november 13.
+
+
+	BSH Háztartási Készülék Kereskedelmi Kft. 				SWGroup Kft.
+	Megrendelő aláírása						Fejlesztő cég aláírása

@@ -1,0 +1,82 @@
+Ajánlatkérés
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Megrendelő:
+BSH Háztartási Készülék Kereskedelmi Kft.
+
+Vállalat információi:
+Cégünk háztartási gépek gyártásával és értékesítésével foglalkozik. Sikertörténetünk a Robert Bosch
+által alapított finommechanikai és elektrotechnikai műhellyel kezdődik. Az alapító célkitűzése az volt, hogy
+mindig a lehető legjobb termékeket állítsa elő. Robert Bosch hitt abban, hogy a tisztességes
+iparosmunka mindig fontosabb, mint az átmeneti haszon. Erre a filozófiára vezethető vissza, hogy
+termékeink több mint 130 év óta kompromisszummentes minőséget, műszaki tökéletességet és
+maximális megbízhatóságot képviselnek. A hétköznapok rutinját nem tudjuk egyszerűen átírni.
+Viszont rövidebbé tehetjük a rutinfeladatokra szánt időt. A háztartási készülékek vezető európai
+márkájaként abszolút csúcsteljesítményt nyújtó készülékeinkkel jelentősen megkönnyíthetjük
+mindennapos teendőit, ezzel pedig zökkenőmentessé tesszük a hétköznapokat. A Bosch háztartási
+készülékei ugyanis kompromisszummentes minőséget, műszaki tökéletességet és maximális
+megbízhatóságot képviselnek. A múltban, a jelenben és a jövőben is.
+
+Ajánlatkérő bemutatása:
+A mai felgyorsult világban feltétlenül fontos az informatikai rendszereink megfelelő védelme, ehhez
+szükségünk lenne egy olyan program kifejlesztéséhez, amely elősegíti a külső forrásból érkező
+adathordozók és eszközök megfelelő szintű ellenőrzését, a csatlakoztatás pillanatában. A rendszerrel
+szembeni elvárás még, hogy információt kapjunk az elvégzett ellenőrzésekről. Ilyen például, hogy kik
+hajtottak végre ellenőrzést, ezt mikor tették és az elvégzett ellenőrzéssel kapcsolatosan milyen
+eredmény született. Távlati célunk egy olyan vírusirtó állomás létrehozása, melynek segítségével a 
+külső beszállítók által használt külső adattároló eszközök megfelelő mértékű ellenőrzését teszi
+lehetővé.
+
+Jelenlegi helyzet bemutatása:
+Jelenleg a cégünknél a vírusellenőrzést a symantec programmal hajtjuk végre. De azokat a szükséges
+információkat, amelyre szükségünk lenne, azokat nem tudjuk rögzíteni. Továbbá nem garantálható
+az sem, hogy a beszállítók által használt külső adathordozó eszközöket megfelelő biztonság mellett
+csatlakoztathatjuk a cég által használt számítógépekhez.
+
+Vágyálom rendszer:
+Egy olyan vírusirtó állomás létrehozása, amely központi szerepet tölt be a külső adathordozók
+ellenőrzésére. A program indítása legyen könnyen elsajátítható és legyen egyszerű a használata.
+Szükséges adatok: Név, munkakör, vírusellenőrzés ideje, vírusellenőrzés eredménye.
+
+Követelmény specifikáció:
+Legyen a cég minden munkatársa számára elérhető és ne kelljen újabb szoftvert telepíteni az
+alkalmazás használatához.
+A felhasználói felületen a következő adatokat kell megadni: Név, Vendég neve, Vendég cég neve,
+Ellenőrzés oka.
+Az alkalmazás a Vendég neve és a Vendég cég nevének együttes megadását fogadhatja csak el. Ha
+valamelyik is hiányzik a két adat közül, úgy az ellenőrzés ne legyen elkezdhető.
+
+Környezeti feltétel:
+Microsoft Windows 10 x64 és Microsoft Windows 7 x64
+
+Ajánlatkérővel szembeni feltételek:
+Az ajánlattevőnek kötelezően rendelkeznie kell informatikai szoftverek fejlesztésére vonatkozó
+referenciával az előző 36 hónapban.
+Az ajánlattevő alkalmatlan abban az esetben, ha az ajánlattételi felhívás feladásának napját megelőző
+18 hónapban sikeres műszaki átadással lezárult, de legfeljebb 36 hónapja megkezdett,
+szerződésszerűen teljesített legalább két referenciával nem rendelkezik.
+
+Ajánlattal kapcsolatos feltételek:
+Az ajánlat benyújtásának helye: Eszterházy Károly Egyetem, C épület, 3300 Eger, Leányka u. 4.
+Az ajánlattétel lehetőleg magyar nyelvű legyen.
+Amennyiben az ajánlattevő valamelyik dokumentumot nem magyar nyelven nyújtja be, abban az
+esetben gondoskodnia kell annak megfelelő fordításáról.
+Az ajánlatot 2 db eredeti, papír alapú példányban kell benyújtani.
+Az ajánlatot tartalmazó borítékon legyenek feltüntetve az alábbiak:
+	- az ajánlatkérő neve
+	- az ajánlattevő neve
+	- az ajánlattevő levelezési címe
+
+Jogi feltétel:
+Az ajánlatkérés során minden vállalatról az adatvédelmi törvénnyel érintett adatokat kérünk.
+Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény
+értelmében kijelentjük, hogy az ajánlatkérés során megadott adatait kizárólag ajánlattételhez
+használjuk fel.
+Az adatokat harmadik fél számára nem szolgáltatjuk ki, és semmilyen körülmények között nem
+tesszük hozzáférhetővé, kivéve a hatósági eljárás eseteit.
+
+Határidők:
+Ajánlat benyújtás határideje: 2017. november 6.
+Ajánlatok elbírálása: 2017. november 10.
+Elkészült rendszer átadása: 2018. január 10.
