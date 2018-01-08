@@ -1,0 +1,9 @@
+C:\Users\ge70840\Documents\Visual Studio 2015\Projects\VPRFORALL\SimpleDetector\SimpleDetector\bin\Debug\SimpleDetector.exe
+C:\Users\ge70840\Documents\Visual Studio 2015\Projects\VPRFORALL\SimpleDetector\SimpleDetector\bin\Debug\SimpleDetector.pdb
+C:\Users\ge70840\Documents\Visual Studio 2015\Projects\VPRFORALL\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.csprojResolveAssemblyReference.cache
+C:\Users\ge70840\Documents\Visual Studio 2015\Projects\VPRFORALL\SimpleDetector\SimpleDetector\obj\Debug\Dolinay.DetectorForm.resources
+C:\Users\ge70840\Documents\Visual Studio 2015\Projects\VPRFORALL\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.Form1.resources
+C:\Users\ge70840\Documents\Visual Studio 2015\Projects\VPRFORALL\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.Properties.Resources.resources
+C:\Users\ge70840\Documents\Visual Studio 2015\Projects\VPRFORALL\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.csproj.GenerateResource.Cache
+C:\Users\ge70840\Documents\Visual Studio 2015\Projects\VPRFORALL\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.exe
+C:\Users\ge70840\Documents\Visual Studio 2015\Projects\VPRFORALL\SimpleDetector\SimpleDetector\obj\Debug\SimpleDetector.pdb

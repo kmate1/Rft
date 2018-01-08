@@ -1,0 +1,9 @@
+C:\Users\SID1EGR\Documents\Visual Studio 2015\Projects\VPRFORALL\VPRFORALL\bin\Debug\VPRFORALL.exe.config
+C:\Users\SID1EGR\Documents\Visual Studio 2015\Projects\VPRFORALL\VPRFORALL\bin\Debug\VPRFORALL.exe
+C:\Users\SID1EGR\Documents\Visual Studio 2015\Projects\VPRFORALL\VPRFORALL\bin\Debug\VPRFORALL.pdb
+C:\Users\SID1EGR\Documents\Visual Studio 2015\Projects\VPRFORALL\VPRFORALL\obj\Debug\VPRFORALL.csprojResolveAssemblyReference.cache
+C:\Users\SID1EGR\Documents\Visual Studio 2015\Projects\VPRFORALL\VPRFORALL\obj\Debug\VPRFORALL.Form1.resources
+C:\Users\SID1EGR\Documents\Visual Studio 2015\Projects\VPRFORALL\VPRFORALL\obj\Debug\VPRFORALL.Properties.Resources.resources
+C:\Users\SID1EGR\Documents\Visual Studio 2015\Projects\VPRFORALL\VPRFORALL\obj\Debug\VPRFORALL.csproj.GenerateResource.Cache
+C:\Users\SID1EGR\Documents\Visual Studio 2015\Projects\VPRFORALL\VPRFORALL\obj\Debug\VPRFORALL.exe
+C:\Users\SID1EGR\Documents\Visual Studio 2015\Projects\VPRFORALL\VPRFORALL\obj\Debug\VPRFORALL.pdb
