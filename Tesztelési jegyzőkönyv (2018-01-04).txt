@@ -1,0 +1,47 @@
+﻿Tesztelési jegyzőkönyv
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Vizsgáló: Kóti Ádám
+
+Dátum: 2018. január 4.
+
+A vizsgálat tartalma:
+	– Pendrive csatlakoztatásakor mi történik?
+	– Pendrive leválasztásakor mi történik?
+
+A vizsgálati környezet leírása:
+	– Pendrive nincs csatlakoztatva
+	– Szövegmezők kitöltve
+
+Bemenő adatok:
+	– Teszt Elek
+	– Valaki Lajos
+	– Teszt Kft.
+	– Tesztelés
+	
+Eredmény:
+	– Pendrive csatlakoztatásakor megjelenő üzenet: ,,New Device Arrived''
+	– Hálózati kártya letiltása
+	– Hálózati kártya újraindítása
+	– E-mail üzenet küldése
+	– Üzenet tartalma:
+		Feladó: <noreplyVPREger@bosch.com>
+		Dátum: 2018. január 4. 17:55:42 CET
+		Címzett: <adrian.simon2@bosch.com>
+		Tárgy: RBASHU:Vírus Ellenőrzés Történt Egerben
+		A J Csarnokban Pendrive ellenőrzés történt 2018.01.04. 17:55:42 időpontban. Az
+		ellenőrzést végezte: Teszt Elek. A Vendég neve: Valaki Lajos. A Vendég Cég neve
+		Teszt Kft. Látogatás Célja: Tesztelés
+	
+Megjegyzés:	
+	
+	
+Minősítés:
+	MEGFELELT		nem felelt meg		megjegyzéssel megfelelt
+
+
+Debrecen, 2018. január 4.
+
+
+							Tesztelő aláírása
