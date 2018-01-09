@@ -1,0 +1,87 @@
+Ajánlat
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Ajánlatkérő neve:
+BSH Háztartási Készülék Kereskedelmi Kft.
+
+Ajánlattevő neve:
+SWGroup Kft.
+
+Ajánlattevő levelezési címe:
+4037 Debrecen, Füredi út 58.
+
+Bemutatkozás:
+A SWGroup azon cégek partnere, akik fejlődésüket tartósan szeretnék megőrizni olyan
+informatikai és gazdasági támogatás mellett, mely az igényeiket kielégíti és a céljaik elérését
+támogatja. Több száz ügyfelünk itthon és külföldön egyetért abban, hogy a szoftver szakértelem
+nélkül semmit nem ér. Mi azon dolgozunk a SWGroup-nál, hogy olyan értékes megoldásokat
+adjunk a partnereink kezébe, amivel elérik céljaikat, és tudnak az üzletre, családra... vagy arra
+figyelni, ami éppen fontos.
+Közel 80 fő dolgozik azon, hogy technológiában és gazdasági szaktudásban megelőzve másokat,
+szolgáltatásaink valódi, mérhető előnyt jelenthessenek. Közel 300.000 órát töltöttünk eddig
+különböző rendszerek fejlesztésével, és ezres nagyságrendű tanácsadói napon vagyunk túl
+különböző rendszerek bevezetéséhez kapcsolódóan.
+Tapasztalt tanácsadói csapatunk a terepen szerezte meg tudását, "ültek ott", ahol most Ön. A
+vállalatirányítási rendszerünk több mint 250 helyen van csatarendben. Nemzetközi tapasztalattal,
+valamint stabil háttérrel a hátunk mögött biztosan merjük állítani, hogy tudunk Önnek is segíteni.
+
+Referenciák:
+Scada Ipari Folyamatirányítási Mérnöki Szolgáltató és Kereskedelmi Kft.
+Diana Tech Irodatechnikai Kft.
+Pannon Guard Zrt.
+Szeged Boleró Kft.
+Draher Sörgyárak Kft.
+FMF Fém- és Műanyagfeldolgozó Kft.
+
+Funkcionális specifikáció:
+A cél egy vírusirtó rendszer megvalósítása külső beszállítók pendrive-jainak ellenőrzésére.
+A vendég vállalkozók a fogadó fél (a cég alkalmazottja) segítségével programozáshoz, telepítéshez
+szükséges pendrive-okat ellenőrizhetik.
+Cél továbbá, hogy egyszerű, letisztult, áttekinthető felhasználói felület kerüljön kialakításra.
+A program indítása után a képernyő tetején megjelenik az indítás dátuma, a számítógép azonosítója,
+a rendszer készítőjének a neve és elérhetősége.
+Alatta található egy legördülő lista a cég valamennyi alkalmazottjáról, ahonnan kiválasztható, hogy ki
+végezte az ellenőrzést.
+A legördülő lista alatt található három szövegdoboz:
+	- az elsőbe a vendég vállalkozó nevét kell beírni
+	- a másodikba a vendég vállalkozó cégének nevét kell beírni
+	- a harmadikba azt kell beírni, milyen célból történt az ellenőrzés
+A képernyő legalján pedig jelenjen meg információ arról, hogy a pendrive csatlakoztatott vagy
+eltávolított állapotban van-e.
+
+Feltételek:
+A dokumentáció átadását követő 5 munkanapon belül az átvevő félnek azt át kell néznie.
+A kézhez vételt követő 5 munkanapon belül írásban kell tájékoztatást adni mindazon
+észrevételekről, amelyek szerint a dokumentáció nem elégíti ki a jelen dokumentumban részletezett
+követelményeket.
+A megrendelőnek 1 éves ingyenes hibajavítást biztosítunk.
+A hibajavítás nem jelent újabb funkciók fejlesztését, hanem az esetlegesen nem lekezelt hibák
+kijavítását foglalja magába.
+A hiba bejelentése után legfeljebb 30 napon belül kezdünk neki a hibajavításnak, és a hiba
+nagyságától függően a hibajavítás ideje 1-5 nap alatt várható.
+Kritikus hiba fellépése esetén biztosítjuk az 5 napon belüli hibajavítást!
+
+Árajánlat:
+A lentebbi ütemterv alapján a projekt befejezése (tervezéstől átadásig) 18 napot igényel. A
+pihenőidőkkel számolva (minden nap után 2 nap pihenő, plusz pihenőnapnak számítanak az
+ünnepnapok is), napi 8 órás munkaidő esetén, 750 Ft-os órabérben az összeg: 18*8*750 =
+108.000 Ft.
+A projekt fejlesztését követően az összeg 35%-ának - 37.800 Ft - elküldése után megkezdődik a
+szoftver fejlesztése.
+A tesztelési időszak után az összeg felét - 50%-át, vagyis 54.000 Ft-ot várjuk.
+A végleges szoftver átadását követően a fennmaradó 15%-ot - 16.200 Ft-ot - várjuk.
+Az árajánlat érvényes: 2017. november 3.
+Valamennyi kifizetése 15 munkanapon belül, számla ellenében esedékes.
+
+Előzetes ütemterv:
+Kapcsolatfelvétel és egyeztetés: 2017. november 13.
+Tervezés: 2017. november 14. - 2017. december 1.
+Fejlesztés: 2017. december 2. - 2017. december 31.
+Tesztelés: 2018. január 1. - 2018. január 7.
+Tervezett átadás: 2018. január 10.
+Oktatás: 2018. január 10.
+Beüzemelés: 2018. január 10.
+Garanciális javítások: 2018. január 10. - 2019. január 10.
+Tervezési és fejlesztési szakaszban szükséges további kapcsolatfelvétel a program megfelelő
+működésének az eléréséhez.
