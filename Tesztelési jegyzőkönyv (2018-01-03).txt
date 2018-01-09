@@ -1,0 +1,36 @@
+Tesztelési jegyzőkönyv
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Vizsgáló: Kóti Ádám
+
+Dátum: 2018. január 3.
+
+A vizsgálat tartalma:
+	– Pendrive csatlakoztatásakor mi történik?
+	– Pendrive leválasztásakor mi történik?
+
+A vizsgálati környezet leírása:
+	– Pendrive nincs csatlakoztatva
+	– Szövegmezők üresen
+
+Bemenő adatok:
+	– Az összes űrlapmező üresen hagyva
+	
+Eredmény:
+	– Pendrive leválasztásakor megjelenő üzenet: ,,Device Removed''
+	– Pendrive csatlakoztatásakor megjelenő üzenet: ,,New Device Arrived''
+	– Megjelenik pendrive csatlakoztatásakor a következő üzenet: ,,Kérem vegye ki a 
+	Pendrive-ot és töltse ki a szükséges információkat''
+
+Megjegyzés:	
+	
+	
+Minősítés:
+	MEGFELELT		nem felelt meg		megjegyzéssel megfelelt
+
+
+Debrecen, 2018. január 3.
+
+
+							Tesztelő aláírása
