@@ -1,0 +1,42 @@
+
+Felhasználói leírás
+
+ 
+
+A Program használata a következõképpen történik.
+
+Indítópultban van elhelyezve a program.Ez Minden egyes indításkor elõjön hiszen a célszámítógépeken más programot nem futtat a felhasználó.
+
+A Program elindulása után a program várakozó állásponton van s amikor pendrive-ot észlel akkor elindítja a batchfileban paraméterként megadott symantec vírusító alkalmazást.
+
+(A Vírusírtó alkalmazást elõtte at rendszergazdának konfigurálni kell)
+
+Miután végzett az ellenõrzéssel a pendrive-ot eltávolítja a felhasználó email értesítést küld az IT osztálynak hogy ezen a gépen vírusellenõrzés történt.
+
+A csatolt képeken látszik a program mûködés közben.
+
+ 
+
+Levél minta:
+
+ 
+
+Feladó: <noreplyVPREger@bosch.com>
+
+Dátum: 2017. november 6. 9:55:42 CET
+
+Címzett: <adrian.simon2@bosch.com>
+
+Tárgy: RBASHU:Vírus Ellenõrzés Történt Egerben
+
+ 
+
+ 
+
+ 
+
+A J Csarnokban Pendrive ellenõrzés történt 2017.11.06. 9:55:42 idõpontban.Az ellenõrzést végezte: Simon Adrian EGE CI/CWR4-HU. A Vendég neve: Kiss István:. A Vendég Cég Neve :KIss es TSA Látogatás Célja:Gépbeállítás
+
+ 
+
+
