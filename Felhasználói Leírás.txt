@@ -1,33 +1,33 @@
 
-Felhasználói leírás
+FelhasznÃ¡lÃ³i leÃ­rÃ¡s
 
  
 
-A Program használata a következõképpen történik.
+A Program hasznÃ¡lata a kÃ¶vetkezÅ‘kÃ©ppen tÃ¶rtÃ©nik.
+(A Rendszergazda a program telepÃ­tÃ©se utÃ¡n beÃ¡llÃ­tja a registry-ben az autologin-t.Azaz egy service user automatikusan bejelentkezik)
+IndÃ­tÃ³pultban van elhelyezve a program.Ez Minden egyes indÃ­tÃ¡skor elÅ‘jÃ¶n hiszen a cÃ©lszÃ¡mÃ­tÃ³gÃ©peken mÃ¡s programot nem futtat a felhasznÃ¡lÃ³.
 
-Indítópultban van elhelyezve a program.Ez Minden egyes indításkor elõjön hiszen a célszámítógépeken más programot nem futtat a felhasználó.
+A Program elindulÃ¡sa utÃ¡n a program vÃ¡rakozÃ³ Ã¡llÃ¡sponton van s amikor pendrive-ot Ã©szlel akkor elindÃ­tja a batchfileban paramÃ©terkÃ©nt megadott symantec vÃ­rusÃ­tÃ³ alkalmazÃ¡st.
 
-A Program elindulása után a program várakozó állásponton van s amikor pendrive-ot észlel akkor elindítja a batchfileban paraméterként megadott symantec vírusító alkalmazást.
+(A VÃ­rusÃ­rtÃ³ alkalmazÃ¡st elÅ‘tte at rendszergazdÃ¡nak konfigurÃ¡lni kell)
 
-(A Vírusírtó alkalmazást elõtte at rendszergazdának konfigurálni kell)
+MiutÃ¡n vÃ©gzett az ellenÅ‘rzÃ©ssel a pendrive-ot eltÃ¡volÃ­tja a felhasznÃ¡lÃ³ email Ã©rtesÃ­tÃ©st kÃ¼ld az IT osztÃ¡lynak hogy ezen a gÃ©pen vÃ­rusellenÅ‘rzÃ©s tÃ¶rtÃ©nt.
 
-Miután végzett az ellenõrzéssel a pendrive-ot eltávolítja a felhasználó email értesítést küld az IT osztálynak hogy ezen a gépen vírusellenõrzés történt.
-
-A csatolt képeken látszik a program mûködés közben.
-
- 
-
-Levél minta:
+A csatolt kÃ©peken lÃ¡tszik a program mÅ±kÃ¶dÃ©s kÃ¶zben.
 
  
 
-Feladó: <noreplyVPREger@bosch.com>
+LevÃ©l minta:
 
-Dátum: 2017. november 6. 9:55:42 CET
+ 
 
-Címzett: <adrian.simon2@bosch.com>
+FeladÃ³: <noreplyVPREger@bosch.com>
 
-Tárgy: RBASHU:Vírus Ellenõrzés Történt Egerben
+DÃ¡tum: 2017. november 6. 9:55:42 CET
+
+CÃ­mzett: <adrian.simon2@bosch.com>
+
+TÃ¡rgy: RBASHU:VÃ­rus EllenÅ‘rzÃ©s TÃ¶rtÃ©nt Egerben
 
  
 
@@ -35,7 +35,7 @@ Tárgy: RBASHU:Vírus Ellenõrzés Történt Egerben
 
  
 
-A J Csarnokban Pendrive ellenõrzés történt 2017.11.06. 9:55:42 idõpontban.Az ellenõrzést végezte: Simon Adrian EGE CI/CWR4-HU. A Vendég neve: Kiss István:. A Vendég Cég Neve :KIss es TSA Látogatás Célja:Gépbeállítás
+A J Csarnokban Pendrive ellenÅ‘rzÃ©s tÃ¶rtÃ©nt 2017.11.06. 9:55:42 idÅ‘pontban.Az ellenÅ‘rzÃ©st vÃ©gezte: Simon Adrian EGE CI/CWR4-HU. A VendÃ©g neve: Kiss IstvÃ¡n:. A VendÃ©g CÃ©g Neve :KIss es TSA LÃ¡togatÃ¡s CÃ©lja:GÃ©pbeÃ¡llÃ­tÃ¡s
 
  
 
