@@ -1,0 +1,46 @@
+
+Részletes Rendszerterv
+
+ 
+
+Most 2017 november 14. van.
+
+·         Dokumentumok, jelentésminták átnézése, a vállalat számara szükséges információk összegyûjtése érdekében. 2017 november 13.
+
+·         Stuttgart-i kollegával felvenni a kapcsolatot. 2017 november 14.
+
+·         Katalógusból kiválasztani a futtatáshoz használt számítógépet és a szükséges perifériákat, beleértve a monitort, a billentyûzetet és az egeret. 2017 november 14.
+
+·         Kapcsolatfelvétele a beszerzési részleggel. 2017 november 15.
+
+·         Vegye fel a kapcsolatot a beszállítóval
+
+·         Rendelje meg a kiválasztott eszközöket (Asztali számítógép, monitor, billentyûzet, egér)
+
+·         A kiválasztott eszközöknek meg kell érkeznie 3-4 héten belül.
+
+·         A logisztikai részleggel felvenni a kapcsolatot és a beszerzésre került eszközök átvételét végrehajtani. 2017 december 18.
+
+·         Support kollégával egyeztetni az OS telepítésével kapcsolatosan. 2017 december 19.
+
+·         Support kollégával egyeztetni a Symantec telepítésével kapcsolatosan. 2018 január 8.
+
+·         Használati utasítás elkészítése. 2018 január 8.
+
+·         Online Wiki készítése a program használatához. 2018 január 10.
+
+·         Használati utasítás kinyomtatása és összefûzése. 2018 január 9.
+
+ 
+
+Megjegyzések:
+
+·         Hardware-nél figyelni a gyártóra mert csak katalógusból lehet választani
+
+·         Egyeztetni a supporttal hogy legyen prio 1 a telepítés
+
+·         Oktatást tartani a program használatáról
+
+ 
+
+

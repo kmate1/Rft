@@ -1,0 +1,7 @@
+Nagyvonalú rendszerterv
+
+Mit?: Központi Informatika (CI) feladatként adta ki vírusíró állomások megvalósítását.
+Hogyan?: Kihelyezni irodai számítógépeket a termelésbe.
+Mibõl?: C# (windows forms + symantec + batch parancsok segítségével)
+Miért?: A külsõ vállalkozók akik a soron folytatott programozáshoz, telepítéshez szükséges külsõ adathordozókat ellenõrizhetik a fogadó fél (ott dolgozó alkalmazott) segítségével.
+
